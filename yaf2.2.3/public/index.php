@@ -1,5 +1,4 @@
 <?php
-echo 'chenjian';
 define("APP_PATH",  realpath(dirname(__FILE__) . "/../"));
 define("PUBLIC_PATH",  dirname(__FILE__));
 
